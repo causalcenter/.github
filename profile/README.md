@@ -2,7 +2,7 @@
 
 The Center for Dynamic Causality is an independent research organization dedicated to the study of **dynamic causality**. The Center works in three research areas: Dynamic Causality, Counterfactual CFD, and Dynamic Knowledge.
 
-## Research Pillars
+## Research Areas
 
 **1. Dynamic Causality.** Materialized as [DeepCausality](https://deepcausality.com), the reference implementation of the [Effect Propagation Process (EPP)](https://github.com/deepcausality-rs/deep_causality/tree/main/papers). DeepCausality subsumes Pearl's SCMs, Granger causality, dynamic Bayesian networks, the Rubin Causal Model, and CATE inference as parametric specializations. It is [hosted at the Linux Foundation for Data & AI](https://lfaidata.foundation/projects/deepcausality/).
 
